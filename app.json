@@ -1,0 +1,30 @@
+{
+  "id": "c11a7064-f26d-4c00-9722-dfa002748eb2",
+  "name": "CSV To JSON",
+  "publisher": "Alexnir SA",
+  "version": "24.0.0.1",
+  "help": "",
+  "url": "",
+  "logo": "logo/logo.jpeg",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "24.0.0.0",
+  "application": "24.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "13.0",
+  "features": [
+    "NoImplicitWith"
+  ],
+  "target": "Cloud"
+}
+
